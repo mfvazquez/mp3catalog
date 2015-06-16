@@ -1,0 +1,520 @@
+/music/Amadian/Amadian Demo 2009/05 - Bonny Portmore.mp3
+listens: 5506
+votes: 177
+points: 1636
+
+/music/Vir_Braun/Vir_Braun/04 - NOCHES.mp3
+listens: 4335
+votes: 1184
+points: 6665
+
+/music/Josh_Woodward/Breadcrumbs/02 - 20 20.mp3
+listens: 1178
+votes: 374
+points: 2304
+
+/music/I Am Not Lefthanded/Time To Leave/02 - Boats (Swept Away).mp3
+listens: 6707
+votes: 2179
+points: 21030
+
+/music/Allison_Crowe/The_Little_Bird/07 - Circular Reasoning.mp3
+listens: 620
+votes: 513
+points: 4579
+
+/music/Carlos_y_Miguel/Josepha/07 - Indio.mp3
+listens: 241
+votes: 198
+points: 1894
+
+/music/Misery/Misery/06 - Hope.mp3
+listens: 8266
+votes: 3292
+points: 29009
+
+/music/Josh_Woodward/Breadcrumbs/11 - I'm Not Dreaming.mp3
+listens: 2876
+votes: 1914
+points: 14502
+
+/music/Allison_Crowe/Spiral/01 - Going HomeTonight (pre-album version) - Allison Crowe.mp3
+listens: 7124
+votes: 6997
+points: 11102
+
+/music/La_Olla_Express/Panic/13 - La Olla Express.mp3
+listens: 1595
+votes: 379
+points: 2614
+
+/music/Brady_Harris/North Hollywood Skyline/01 - North Hollywood Skyline.mp3
+listens: 7376
+votes: 1989
+points: 3512
+
+/music/I Am Not Lefthanded/Time To Leave/01 - The Place That Won't Take Me Back.mp3
+listens: 9054
+votes: 5595
+points: 33578
+
+/music/LadyLau/Sense/10 - Feel.mp3
+listens: 4614
+votes: 1536
+points: 10520
+
+/music/LadyLau/Sense/07 - Sensation.mp3
+listens: 9544
+votes: 944
+points: 7919
+
+/music/Misery/Misery/09 - The end.mp3
+listens: 9557
+votes: 6659
+points: 24958
+
+/music/Circa_Vitae/Circa_Vitae_EP/01 - begginings are backwards.mp3
+listens: 7358
+votes: 4479
+points: 37268
+
+/music/Govannon/Historias_tras_el_fuego/08 - 08 - Cenizas.mp3
+listens: 8728
+votes: 4281
+points: 33120
+
+/music/La_Olla_Express/Panic/11 - Viene y va.mp3
+listens: 7076
+votes: 2260
+points: 22423
+
+/music/Slim/Interstate_Medicine/08 - Caroline.mp3
+listens: 7817
+votes: 999
+points: 1804
+
+/music/Ness/Fiesta/01 - Fiesta.mp3
+listens: 7491
+votes: 3275
+points: 1974
+
+/music/Allison_Crowe/Secrets/09 - Whether I'm Wrong (live).mp3
+listens: 866
+votes: 756
+points: 4013
+
+/music/Circa_Vitae/Circa_Vitae_EP/06 - Shine.mp3
+listens: 1319
+votes: 1211
+points: 4011
+
+/music/Haroldo_Torrecilha/Muito_Prazer/07 - Amor e cancao.mp3
+listens: 1831
+votes: 50
+points: 58
+
+/music/Bilk/Ich_will_here_raus/05 - Will Dich.mp3
+listens: 7324
+votes: 1437
+points: 2372
+
+/music/Josh_Woodward/Breadcrumbs/09 - Once Tomorrow.mp3
+listens: 6723
+votes: 3899
+points: 35529
+
+/music/Circa_Vitae/Circa_Vitae_EP/05 - trace mammoth.mp3
+listens: 5444
+votes: 5336
+points: 24508
+
+/music/Vir_Braun/Vir_Braun/08 - VOCE VAI.mp3
+listens: 889
+votes: 838
+points: 618
+
+/music/Misery/Misery/02 - Sincerety.mp3
+listens: 5129
+votes: 3688
+points: 5899
+
+/music/Allison_Crowe/Secrets/02 - Philosophy.mp3
+listens: 3168
+votes: 2729
+points: 22970
+
+/music/Amadian/Amadian Demo 2009/06 - Reina Carmesi.mp3
+listens: 827
+votes: 613
+points: 4162
+
+/music/Haroldo_Torrecilha/Muito_Prazer/08 - Morena.mp3
+listens: 2073
+votes: 1726
+points: 14502
+
+/music/Vir_Braun/Vir_Braun/05 - CUANTO TIEMPO MAS.mp3
+listens: 5821
+votes: 4798
+points: 41585
+
+/music/Misery/Misery/03 - Ready.mp3
+listens: 5129
+votes: 223
+points: 2226
+
+/music/Govannon/Historias_tras_el_fuego/04 - 04 - Absenta.mp3
+listens: 3078
+votes: 1176
+points: 8409
+
+/music/LadyLau/Sense/01 - The Difference.mp3
+listens: 3820
+votes: 1689
+points: 7160
+
+/music/Silencio apache - Emocion Violenta/05 - Mi adiccion.mp3
+listens: 7524
+votes: 500
+points: 1450
+
+/music/Slim/Interstate_Medicine/13 - Walking Shoes.mp3
+listens: 7525
+votes: 1791
+points: 100
+
+/music/Amadian/Amadian Demo 2009/09 - Brian Borus' March.mp3
+listens: 5306
+votes: 5044
+points: 36943
+
+/music/Allison_Crowe/Secrets/06 - Montreal.mp3
+listens: 2787
+votes: 649
+points: 2158
+
+/music/Silencio apache - Emocion Violenta/06 - Necesitame.mp3
+listens: 4020
+votes: 1969
+points: 7882
+
+/music/Slim/Interstate_Medicine/03 - Slide.mp3
+listens: 8872
+votes: 5473
+points: 54424
+
+/music/Allison_Crowe/The_Little_Bird/02 - Skeletons and Spirits.mp3
+listens: 3953
+votes: 3251
+points: 28104
+
+/music/Slim/Interstate_Medicine/11 - Electric.mp3
+listens: 3776
+votes: 347
+points: 909
+
+/music/LadyLau/Sense/04 - Taste.mp3
+listens: 7323
+votes: 3955
+points: 2198
+
+/music/Slim/Interstate_Medicine/01 - Cortez Pizarro.mp3
+listens: 2880
+votes: 2777
+points: 22427
+
+/music/Circa_Vitae/Circa_Vitae_EP/04 - Stranger.mp3
+listens: 2425
+votes: 1905
+points: 12544
+
+/music/I Am Not Lefthanded/Yes Means No/05 - Falling.mp3
+listens: 304
+votes: 95
+points: 890
+
+/music/Amadian/Amadian Demo 2009/07 - Scottish Medley (Calliope House + Slip Jig + Sinovas' Reel 1 2).mp3
+listens: 9154
+votes: 1885
+points: 8316
+
+/music/Slim/Interstate_Medicine/07 - Picture of You.mp3
+listens: 841
+votes: 483
+points: 3704
+
+/music/Misery/Misery/10 - Ready (acoustic).mp3
+listens: 4117
+votes: 1049
+points: 3200
+
+/music/Amadian/Amadian Demo 2009/10 - Giga del Galo.mp3
+listens: 405
+votes: 31
+points: 158
+
+/music/Josh_Woodward/Breadcrumbs/01 - Swansong.mp3
+listens: 4619
+votes: 3812
+points: 4291
+
+/music/Misery/Misery/01 - Sara.mp3
+listens: 5864
+votes: 3677
+points: 25898
+
+/music/100PydOff/100_Conzza/03 - 100PydOFF - 220V.mp3
+listens: 7420
+votes: 7314
+points: 39073
+
+/music/Bilk/Ich_will_here_raus/06 - Warten.mp3
+listens: 9370
+votes: 5784
+points: 25827
+
+/music/100PydOff/100_Conzza/02 - 100PydOFF - Proschay.mp3
+listens: 520
+votes: 25
+points: 1
+
+/music/Radio_Nowhere/Days_Between_Stations/04 - Shotgun.mp3
+listens: 7205
+votes: 5540
+points: 42927
+
+/music/Slim/Interstate_Medicine/02 - Heathrow.mp3
+listens: 2002
+votes: 593
+points: 2136
+
+/music/Ness/Fiesta/03 - Fuerza Astur.mp3
+listens: 9048
+votes: 8674
+points: 43607
+
+/music/Circa_Vitae/Circa_Vitae_EP/07 - end water.mp3
+listens: 7647
+votes: 491
+points: 464
+
+/music/Circa_Vitae/Circa_Vitae_EP/03 - do geese see god_.mp3
+listens: 9225
+votes: 7258
+points: 49051
+
+/music/La_Olla_Express/Panic/12 - Tiempo.mp3
+listens: 9211
+votes: 8506
+points: 4569
+
+/music/Circa_Vitae/Circa_Vitae_EP/08 - The Tower.mp3
+listens: 4270
+votes: 178
+points: 303
+
+/music/Allison_Crowe/Secrets/01 - How Long.mp3
+listens: 6008
+votes: 2023
+points: 19135
+
+/music/Govannon/Historias_tras_el_fuego/03 - 03 - Cancion a Marga.mp3
+listens: 4791
+votes: 2267
+points: 4525
+
+/music/LadyLau/Sense/12 - Senses.mp3
+listens: 1276
+votes: 1081
+points: 71
+
+/music/La_Olla_Express/Panic/05 - 1000 Sonidos.mp3
+listens: 4826
+votes: 388
+points: 2110
+
+/music/Vir_Braun/Vir_Braun/06 - SALIR DEL MUNDO.mp3
+listens: 9177
+votes: 5961
+points: 18962
+
+/music/LadyLau/Sense/09 - Voices of the Past.mp3
+listens: 8353
+votes: 4445
+points: 40317
+
+/music/Govannon/Historias_tras_el_fuego/09 - 09 - La taberna del largo.mp3
+listens: 8728
+votes: 1948
+points: 13658
+
+/music/Radio_Nowhere/Days_Between_Stations/01 - Catherine Wheel.mp3
+listens: 1827
+votes: 935
+points: 6849
+
+/music/La_Olla_Express/Panic/02 - Aeropuerto.mp3
+listens: 742
+votes: 246
+points: 2046
+
+/music/Carlos_y_Miguel/Josepha/05 - Nostalgia.mp3
+listens: 4061
+votes: 2828
+points: 23427
+
+/music/LadyLau/Sense/03 - Choice.mp3
+listens: 7170
+votes: 826
+points: 8238
+
+/music/Misery/Misery/07 - The only thing.mp3
+listens: 7305
+votes: 2085
+points: 14635
+
+/music/Haroldo_Torrecilha/Muito_Prazer/02 - Quando meu voo e livre.mp3
+listens: 5161
+votes: 1005
+points: 8004
+
+/music/I Am Not Lefthanded/Yes Means No/03 - Persuade Yourself.mp3
+listens: 2903
+votes: 382
+points: 1655
+
+/music/La_Olla_Express/Panic/06 - Esperando.mp3
+listens: 6619
+votes: 6487
+points: 38572
+
+/music/Haroldo_Torrecilha/Muito_Prazer/09 - Dorme Marina.mp3
+listens: 1317
+votes: 480
+points: 3352
+
+/music/Josh_Woodward/Breadcrumbs/10 - The Voices.mp3
+listens: 783
+votes: 352
+points: 3300
+
+/music/La_Olla_Express/Panic/04 - Panic.mp3
+listens: 2829
+votes: 114
+points: 67
+
+/music/Carlos_y_Miguel/Josepha/01 - Caricia del cielo.mp3
+listens: 503
+votes: 225
+points: 1955
+
+/music/Vir_Braun/Vir_Braun/07 - EASY.mp3
+listens: 1354
+votes: 3
+points: 7
+
+/music/LadyLau/Sense/05 - Bittersweet.mp3
+listens: 9886
+votes: 2408
+points: 13212
+
+/music/100PydOff/100_Conzza/01 - 100PydOFF - Prishla vesna.mp3
+listens: 2737
+votes: 901
+points: 1982
+
+/music/Misery/Misery/04 - Meu amor.mp3
+listens: 5038
+votes: 4391
+points: 15442
+
+/music/Misery/Misery/05 - You never know what the future may bring.mp3
+listens: 2651
+votes: 2142
+points: 11046
+
+/music/Amadian/Amadian Demo 2009/02 - Beggar and King.mp3
+listens: 8431
+votes: 420
+points: 2584
+
+/music/100PydOff/100_Conzza/05 - 100PydOFF - 100% Solnza.mp3
+listens: 8002
+votes: 3879
+points: 26399
+
+/music/Allison_Crowe/Secrets/04 - Immersed.mp3
+listens: 3099
+votes: 720
+points: 139
+
+/music/Josh_Woodward/Breadcrumbs/06 - Stars Collide.mp3
+listens: 5054
+votes: 1304
+points: 6473
+
+/music/Slim/Interstate_Medicine/06 - Starfish Sunflower.mp3
+listens: 4797
+votes: 93
+points: 273
+
+/music/Silencio apache - Emocion Violenta/09 - Vida irreal.mp3
+listens: 8407
+votes: 6485
+points: 43897
+
+/music/I Am Not Lefthanded/Yes Means No/02 - Endline (choose nothing).mp3
+listens: 8160
+votes: 5770
+points: 39964
+
+/music/Govannon/Historias_tras_el_fuego/05 - 05 - Fabula.mp3
+listens: 4129
+votes: 483
+points: 1532
+
+/music/Govannon/Historias_tras_el_fuego/07 - 07 - El amo del calabozo.mp3
+listens: 8890
+votes: 8411
+points: 77612
+
+/music/Radio_Nowhere/Days_Between_Stations/03 - Halfway Home.mp3
+listens: 6541
+votes: 4185
+points: 7283
+
+/music/I Am Not Lefthanded/Yes Means No/06 - boatsbutnottheocean.mp3
+listens: 1651
+votes: 657
+points: 2744
+
+/music/La_Olla_Express/Panic/10 - Babylon.mp3
+listens: 6890
+votes: 3268
+points: 812
+
+/music/Amadian/Amadian Demo 2009/04 - Irish Medley 2 (O'Neill's Cavalry March + The Blarney Pilgrim + Kesh Jig).mp3
+listens: 7476
+votes: 4149
+points: 17270
+
+/music/I Am Not Lefthanded/Time To Leave/05 - Alone.mp3
+listens: 7744
+votes: 6259
+points: 53712
+
+/music/Silencio apache - Emocion Violenta/03 - Acompaname.mp3
+listens: 6534
+votes: 2118
+points: 13753
+
+/music/Allison_Crowe/Secrets/08 - What About You.mp3
+listens: 71
+votes: 32
+points: 288
+
+/music/Silencio apache - Emocion Violenta/07 - Todo claro.mp3
+listens: 9562
+votes: 2578
+points: 5080
+
